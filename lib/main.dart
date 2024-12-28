@@ -1,6 +1,7 @@
 import 'package:chat_assistant_ai/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:chat_assistant_ai/pallete.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 void main() {
   runApp(const MainApp());
